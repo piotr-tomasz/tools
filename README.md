@@ -1,4 +1,4 @@
-The tools repository contain one application currently, but another one is under preparation.
+The tools repository contains one application, but another one is under preparation.
 
 
 Current repository content:
